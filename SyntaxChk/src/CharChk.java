@@ -45,5 +45,6 @@ public class CharChk {
 
         if(s3.length() == 10) System.out.printf("10");
         System.out.println("santhosh");
+        System.out.println("rebase example");
     }
 }
